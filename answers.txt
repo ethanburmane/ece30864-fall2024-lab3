@@ -38,3 +38,12 @@ Question 3
     * wraps up the actions completed during the sprint 
     * discusses any issues that arose during the sprint and how to fix them
 
+Question 4
+
+An epic is a big task that needs to be broken down. Epics group together bugs, stories, and tasks to show the overall progress of the Epic.
+
+A bug is an issue that slows or prevents the progress of the project. 
+
+A story is the smallest unit of work that needs to be done. 
+
+A task represents some work that needs to be done.
