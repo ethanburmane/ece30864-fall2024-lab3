@@ -16,3 +16,15 @@ Non-agile Cons
 * There is a lack of flexibility with the Waterfall framework
 * The Waterfall framework can lead to longer release times 
 
+Question 2
+
+Scrum Master
+* Focuses on following the Agile method 
+* Removes blocker for the rest of the team
+* Helps to improve productivity within the team
+
+Product Owner
+* Defines and prioritizes the product and its backlog
+* Discusses between the stakeholders and the product development team 
+* Provides continuous feedback from customers to help the team stay up-to-date with performance and bugs
+
