@@ -1,1 +1,18 @@
+Question 1
+
+Agile Pros
+* Faster version releases, due to completing tasks and features incrementally
+* Agile allows you to preform less preparation work
+
+Agile Cons
+* Agile leads to a lack of documentation
+* Agile can cause unpredictability with final dates and deadlines
+
+Non-agile Pros
+* The Waterfall framework provides precise deadlines
+* The Waterfall framework provides a well-documented project 
+
+Non-agile Cons
+* There is a lack of flexibility with the Waterfall framework
+* The Waterfall framework can lead to longer release times 
 
