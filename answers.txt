@@ -28,3 +28,13 @@ Product Owner
 * Discusses between the stakeholders and the product development team 
 * Provides continuous feedback from customers to help the team stay up-to-date with performance and bugs
 
+Question 3
+
+* Sprint Planning 
+    * determine the purpose of the sprint 
+    * determine the task/features to be completed
+
+* Sprint Post-mortem
+    * wraps up the actions completed during the sprint 
+    * discusses any issues that arose during the sprint and how to fix them
+
